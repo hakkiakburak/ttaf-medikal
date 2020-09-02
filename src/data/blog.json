@@ -1,0 +1,158 @@
+{
+    "sectionTitle": "TTAF Medikal Blog",
+    "sectionText": "Türkiye ve dünyanın sağlık gündemini sizlerle paylaşmak için TTAF Medikal Blog'u oluşturduk. Eğer sağlık teknolojilerine ilgi duyuyor, araştırıyor, yeni gelişmeler ile ilgili konuşuyor ve paylaşımda bulunuyorsanız, gelin medikal çözümleri ve yeni teknolojileri birlikte keşfedelim!",
+    "blogPosts": [
+        {
+            "image": "assets/img/blog/1.jpg",
+            "title": "Blog 1",
+            "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe minus, illo error ratione",
+            "date": "12 Nisan, 2020"
+        },
+        {
+            "image": "assets/img/blog/2.jpg",
+            "title": "Blog 2",
+            "desc": "consectetur adipisicing Lorem ipsum dolor amet elit. Nemo exercitationem consequuntur",
+            "date": "18 Mart, 2020"
+        },
+        {
+            "image": "assets/img/blog/3.jpg",
+            "title": "Lorem ipsum dolor sit amet.",
+            "desc": "amet consectetur Lorem ipsum, dolor sit adipisicing elit. Saepe minus, illo error ratione",
+            "date": "10 Temmuz, 2020"
+        },
+        {
+            "image": "assets/img/blog/1.jpg",
+            "title": "Lorem ipsum dolor sit amet.",
+            "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe minus, illo error ratione",
+            "date": "10 Ağustos, 2020"
+        },
+        {
+            "image": "assets/img/blog/2.jpg",
+            "title": "Lorem ipsum dolor sit amet.",
+            "desc": "consectetur adipisicing Lorem ipsum dolor amet elit. Nemo exercitationem consequuntur",
+            "date": "18 Temmuz, 2020"
+        },
+        {
+            "image": "assets/img/blog/3.jpg",
+            "title": "Lorem ipsum dolor sit amet.",
+            "desc": "amet consectetur Lorem ipsum, dolor sit adipisicing elit. Saepe minus, illo error ratione",
+            "date": "20 Mayıs, 2020"
+        }
+    ],
+    "blogSidebarData": {
+        "searchTitle": "Blog Yazısı Ara",
+        "CategoriesTitle": "Kategoriler",
+        "categories": [
+            {
+                "title": "TTAF Medikal",
+                "link": "/blog-details"
+            },
+            {
+                "title": "Medikal",
+                "link": "/blog-details"
+            },
+            {
+                "title": "Ultraviyole",
+                "link": "/blog-details"
+            },
+            {
+                "title": "Kişisel Koruyucular",
+                "link": "/blog-details"
+            },
+            {
+                "title": "Sterilizasyon",
+                "link": "/blog-details"
+            },
+            {
+                "title": "Basında Biz",
+                "link": "/blog-details"
+            },
+            {
+                "title": "Ürün",
+                "link": "/blog-details"
+            }
+        ],
+        "popularPostTitle": "Popüler Yazılar",
+        "popularPost": [
+            {
+                "image": "assets/img/blog/sidebar-blog-1.jpg",
+                "title": "TTAF Blog Yazısı 1",
+                "date": "April 12, 2020"
+            },
+            {
+                "image": "assets/img/blog/sidebar-blog-2.jpg",
+                "title": "TTAF Blog Yazısı 2",
+                "date": "April 18, 2020"
+            },
+            {
+                "image": "assets/img/blog/sidebar-blog-3.jpg",
+                "title": "HTTAF Blog Yazısı 3",
+                "date": "March 12, 2020"
+            }
+        ],
+        "tagTitle": "Etiketler",
+        "tags": [
+            {
+                "name": "TTAF",
+                "link": "/blog-left-sidebar"
+            },
+            {
+                "name": "Medikal",
+                "link": "/blog-left-sidebar"
+            },
+            {
+                "name": "UV-C",
+                "link": "/blog-left-sidebar"
+            },
+            {
+                "name": "Ürün",
+                "link": "/blog-left-sidebar"
+            },
+            {
+                "name": "Sterilizasyon",
+                "link": "/blog-left-sidebar"
+            },
+            {
+                "name": "Ragnar",
+                "link": "/blog-left-sidebar"
+            },
+            {
+                "name": "Volans",
+                "link": "/blog-left-sidebar"
+            },
+            {
+                "name": "Medikal Maskeler",
+                "link": "/blog-left-sidebar"
+            }
+        ]
+    },
+    "blogDetails": {
+        "image": "assets/img/blog/blog-details-1.jpg",
+        "title": "TTAF Medikal Blog Yazısı",
+        "desc_para1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit eveniet reprehenderit voluptas delectus reiciendis pariatur, totam id quae tempore fugiat tenetur asperiores saepe velit nisi voluptates molestiae quia fugit laboriosam quidem, distinctio dolor consequatur repellendus debitis natus magni. Totam atque provident nulla quasi voluptatum nostrum officia rerum pariatur maxime sit.",
+        "desc_para2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste iure eveniet minima commodi consequuntur veritatis, officiis quibusdam molestias, nemo dolorum veniam quisquam pariatur facilis repudiandae eaque quas assumenda enim, unde placeat dolores id voluptatibus amet.",
+        "desc_para3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam explicabo iusto suscipit dolore repellendus odit laborum, cupiditate unde nesciunt eveniet temporibus autem adipisci earum at error aspernatur neque minima doloribus?",
+        "desc_para4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis voluptate repellat quam exercitationem excepturi enim et blanditiis amet minima itaque, doloribus cumque labore. Asperiores nemo odio sed molestias harum laborum quia enim, delectus repellendus consequuntur unde magnam, ipsam possimus vero, quam dolore adipisci. Rerum, vitae!",
+        "blockQuote": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate ad totam est optio mollitia dolores rem ducimus. Odio assumenda distinctio adipisci! Consequuntur excepturi eos nulla.",
+        "author": "TTAF Medikal",
+        "tags": [
+            {
+                "tagName": "Medikal",
+                "link": "/blog-details"
+            },
+            {
+                "tagName": "UV",
+                "link": "/blog-details"
+            },
+            {
+                "tagName": "Duyuru",
+                "link": "/blog-details"
+            }
+        ],
+        "metas": {
+            "author": "TTAF Medikal",
+            "authorLink": "#",
+            "date": "12 Nisan, 2020"
+        }
+    }
+}

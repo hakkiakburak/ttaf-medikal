@@ -1,0 +1,43 @@
+{
+    "id": 1,
+    "sectionTitle": "Size nasıl yardımcı olabiliriz?",
+    "sectionSubTitle": "Hızlı İletişim",
+    "desc": "TTAF Medikal ürünleri ve Ar-Ge Merkezimiz hakkında daha fazlasını keşfetmek ve detaylı bilgi almak bize ulaşabilirsiniz.",
+    "image": "assets/img/backgrounds/video-cta.jpg",
+    "aboutImage": "assets/img/backgrounds/about.png",
+    "youtubeLink": "https://www.youtube.com/watch?v=LTauBc7lDIg",
+
+    "aboutUs": {
+        "image": "assets/img/about/about-3.jpg",
+        "youtubeLink": "http://www.youtube.com/watch?v=LTauBc7lDIg",
+        "subTitle": "TTAF Medikal",
+        "title": "Hakkımızda",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, beatae.",
+        "desc": "1990 yılında İstanbul’da başlayan yolculuğumuz, ileri teknoloji bağlantı elemanları, kablo gruplama, profesyonel  led aydınlatma uygulamaları, pasif network çözümleri ile müşterilerimize özel ürün tasarımları ve farklı ihtiyaçlara yönelik çözümlerimiz ile hem Türkiye'de, hem dünya çapında katma değer yaratıyoruz. 6000m2’lik İstanbul  tesisimizde, ‘ÖNCE MÜŞTERİ MEMNUNİYETİ’ ilkesi ışığında üretim faaliyetlerimize devam etmekteyiz.Uzun yılların kazandırdığı tecrübe ve birikim ile son teknoloji makine parkuru ve üstün hizmet anlayışı ile müşterilerimize en kaliteli ürünleri sağlamayı amaçlıyor, telekomünikasyon, savunma sanayi, hava-uzay, otomotiv ve aydınlatma çözümlerine uzanan geniş bir yelpazede komple sistem çözümleri sağlamakta ve bugün 65 ülkeye ihracat yapmaktayız.TTAF olarak sahip olduğumuz kapsamlı ürün ve sistem belgelerimiz ile  ISO 9001:2015, ISO 14001:2015, OSHAS 18001:2007, IPC/WHMA-A-620B, UL, CE, ATEX, ETL & 3P ile  müşterilerimize güven vermek için her geçen gün çalıştığımız farklı alanlarda sertifikalarımıza yenilerini eklemekteyiz.."
+    },
+
+    "policy": [
+        {
+            "icon": "assets/img/icons/feature-1.png",
+            "title": "Lorem 1",
+            "body": "Lorem ipsum dolor sit amet, consec tetur adipisicing elit. Officia odio eum corporis consequatur."
+        },
+        {
+            "icon": "assets/img/icons/feature-2.png",
+            "title": "Lorem 2",
+            "body": "Lorem ipsum dolor sit amet, consec tetur adipisicing elit. Officia odio eum corporis consequatur."
+        },
+        {
+            "icon": "assets/img/icons/feature-3.png",
+            "title": "Lorem 3",
+            "body": "Lorem ipsum dolor sit amet, consec tetur adipisicing elit. Officia odio eum corporis consequatur."
+        }
+    ],
+    "experience": {
+        "image_1": "assets/img/about/about-1.jpg",
+        "image_2": "assets/img/about/about-2.jpg",
+        "title": "<span>Temel İlkelerimiz</span>",
+        "desc": "omnis voluptas assumenda s debitis aut rerum atibus saepe eveniet ut et voluptates repudiandae sint et molestiae",
+        "desc2": "ligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor ellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum atibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapie"
+    }
+}

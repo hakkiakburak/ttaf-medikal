@@ -1,0 +1,110 @@
+{
+    "sectionTitleOne": "Ürünler",
+    "projectSlider": [
+        {
+            "id": 1,
+            "count": "1",
+            "title": "Kulak Koruyucu",
+            "desc": "Lorem ipsum dolor sit amet, consect adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim",
+            "image": "assets/img/projects/1.jpg"
+        },
+        {
+            "id": 2,
+            "count": "2",
+            "title": "Yüz Siperlikleri (pet- petG- 340 derece)",
+            "desc": "Lorem ipsum dolor sit amet, consect adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim",
+            "image": "assets/img/projects/1.jpg"
+        },
+        {
+            "id": 3,
+            "count": "3",
+            "title": "Covid 19 Test Kitleri",
+            "desc": "Lorem ipsum dolor sit amet, consect adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim",
+            "image": "assets/img/projects/1.jpg"
+        }
+    ],
+    "sectionTitleTwo": "Ürünler",
+    "projectGrid": [
+        {
+            "id": 1,
+            "title": "Kulak Koruyucu",
+            "desc": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+            "image": "assets/img/projects/project-1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Yüz Siperlikleri (pet- petG- 340 derece)",
+            "desc": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+            "image": "assets/img/projects/project-2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Covid 19 Test Kitleri",
+            "desc": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+            "image": "assets/img/projects/project-3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Medikal Maskeler",
+            "desc": "Lorem ipsum dolor sit amet consect adipisi elit sed do eiusm tempor",
+            "image": "assets/img/projects/project-4.jpg"
+        }
+    ],
+    "projectDetails": {
+        "projectDetailsImage": "assets/img/projects/project-details.jpg",
+        "projectDetailsTitle": "TTAF MEDİKAL / 340° Siperlik",
+        "projectDetailsDesc": "340 derece yüz siperliği, buğu tutmaz ve net görüş açısı ile virüslere, mikroplara ve bakterilere karşı koruma sağlamanız amacıyla TTAF Medikal tarafından üretilmekte ve hizmetinize sunulmaktadır. Kolay temizlenme ayrıcalığı sunan 340 derece yüz siperliği, hastanelerde, bankalarda, ulaşım sektöründe, restoranlarda, iş merkezlerinde ve halka açık birçok alanda yaygın olarak kullanılmaktadır."
+    },
+    "projectDetailsInfo": {
+        "title": "Özellikler",
+        "lists": [
+            {
+                "desc": "Kan patojenleri, vücut sıvıları veya zararlı kimyalsal sıçramalardan kaynaklanan olası kontaminasyona karşı 340 derece mükemmel koruma sağlar."
+            },
+            {
+                "desc": "340 derece Yüz Siperi COVID-19 için tasarlanmıştır."
+            },
+            {
+                "desc": "Hastanelerde, bankalarda, ulaşım personelinde, restoranlarda, pazarda ve halka açık yerlerde yaygın olarak kullanılır,"
+            },
+            {
+                "desc": "Maksimum koruma ile beraber buğu önleyici materyali ile devamlı görüş netliği sağlar."
+            },
+            {
+                "desc": "Gözlük ve maskeler için yeterli alana sahiptir."
+            },
+            {
+                "desc": "Dezenfektanlar ile temizliği yapılabilir."
+            },
+            {
+                "desc": "Sürekli kullanım için uygundur. "
+            }
+        ]
+    },
+    "projectDetailsGallery": [
+        {
+            "image": "assets/img/projects/project-galler-1.jpg"
+        },
+        {
+            "image": "assets/img/projects/project-galler-2.jpg"
+        },
+        {
+            "image": "assets/img/projects/project-galler-3.jpg"
+        },
+        {
+            "image": "assets/img/projects/project-galler-4.jpg"
+        },
+        {
+            "image": "assets/img/projects/project-galler-5.jpg"
+        },
+        {
+            "image": "assets/img/projects/project-galler-6.jpg"
+        },
+        {
+            "image": "assets/img/projects/project-galler-7.jpg"
+        },
+        {
+            "image": "assets/img/projects/project-galler-8.jpg"
+        }
+    ]
+}

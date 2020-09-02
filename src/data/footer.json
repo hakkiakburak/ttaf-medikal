@@ -1,0 +1,70 @@
+{
+    "footerLogo": "assets/img/logo/ttaf-medikal-logo.png",
+    "footerDesc": "Lorem ipsum dolor sit amet consect adipisici elit, sed do eiusmod tempor incididuk ut labore et dolore magna aliqua Ut enim 126",
+    "footerLinkTitleOne": "Sitemap",
+    "navListOne": [
+        {
+            "navTitle": "TTAF Medikal",
+            "navUrl": "/"
+        },
+        {
+            "navTitle": "Çözümlerimiz",
+            "navUrl": "*"
+        },
+        {
+            "navTitle": "Ürünlerimiz",
+            "navUrl": "/"
+        },
+        {
+            "navTitle": "Kişisel Koruyucular",
+            "navUrl": "/"
+        },
+        {
+            "navTitle": "Sterilizasyon",
+            "navUrl": "/"
+        }
+    ],
+    "footerLinkTitleTwo": "Sitemap",
+    "navListTwo": [
+        {
+            "navTitle": "Hakkımızda",
+            "navUrl": "/"
+        },
+        {
+            "navTitle": "İletişim",
+            "navUrl": "/"
+        },
+        {
+            "navTitle": "TTAF Kurumsal",
+            "navUrl": "/"
+        },
+        {
+            "navTitle": "TTAF Aydınlatma",
+            "navUrl": "/"
+        },
+        {
+            "navTitle": "TTAF Shop",
+            "navUrl": "/"
+        },
+        {
+            "navTitle": "KVKK GİZLİLİK POLİTİKASI VE AYDINLATMA METNİ",
+            "navUrl": "/"
+        }
+    ],
+    "footerContactWidget": {
+        "widgetTitle": "İletişim Adreslerimiz",
+        "widgetDesc": "Kavaklı Mah. İstanbul Cad. No:21 Beylikdüzü / İstanbul / TÜRKİYE",
+        "contactInfo": [
+            {
+                "title": "<span>T:</span>+90 212 855 82 20"
+            },
+            {
+                "title": "<span>F:</span>+90 212 855 82 21"
+            },
+            {
+                "title": "<span>E:</span>info@ttaf.com.tr"
+            }
+        ]
+    }
+
+}

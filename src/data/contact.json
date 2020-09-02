@@ -1,0 +1,19 @@
+{
+    "contactInfo": {
+        "title": "İletişim Bilgilerimiz",
+        "address": {
+            "icon": "ion-android-map",
+            "location": "Kavaklı Mah. İstanbul Cad. No:21 Beylikdüzü / İstanbul / TÜRKİYE"
+        },
+        "telephone": {
+            "icon": "ion-ios-telephone-outline",
+            "no_1": "+90 212 855 82 20",
+            "no_2": "90 212 855 82 21"
+        },
+        "mail": {
+            "icon": "ion-ios-email-outline",
+            "email": "info@ttaf.com.tr",
+            "web": "ttaf.com.tr"
+        }
+    }
+}

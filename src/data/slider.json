@@ -1,0 +1,59 @@
+{
+    "heroOne": [
+        {
+            "title": "TTAF Medikal",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore et dolore.",
+            "image": "assets/img/slider/slider3.jpg"
+        },
+        {
+            "title": "TTAF Medikal",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore et dolore.",
+            "image": "assets/img/slider/slider2.jpg"
+        },
+        {
+            "title": "TTAF Medikal",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore et dolore.",
+            "image": "assets/img/slider/slider1.jpg"
+        }
+    ],
+    "heroTwo": [
+        {
+            "title": "TTAF Medikal",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm",
+            "image": "assets/img/slider/slider3.jpg",
+            "addClass": "hero-slider__content--center"
+        },
+        {
+            "title": "TTAF Medikal",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm",
+            "image": "assets/img/slider/slider2.jpg",
+            "addClass": "hero-slider__content--center"
+        },
+        {
+            "title": "TTAF Medikal",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm",
+            "image": "assets/img/slider/slider1.jpg",
+            "addClass": "hero-slider__content--center"
+        }
+    ],
+    "heroThree": [
+        {
+            "title": "TTAF Medikal",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm",
+            "image": "assets/img/slider/slider4.jpg",
+            "addClass": "hero-slider__content--center"
+        },
+        {
+            "title": "TTAF Medikal",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm",
+            "image": "assets/img/slider/slider5.jpg",
+            "addClass": "hero-slider__content--center"
+        },
+        {
+            "title": "TTAF Medikal",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm",
+            "image": "assets/img/slider/slider1.jpg",
+            "addClass": "hero-slider__content--center"
+        }
+    ]
+}
